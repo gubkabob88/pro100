@@ -10,7 +10,8 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("a2312");
+            Console.WriteLine("a");
+            Console.WriteLine("123123");
         }
     }
 }
