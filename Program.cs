@@ -12,6 +12,7 @@ namespace ConsoleApp8
         {
             Console.WriteLine("a");
             Console.WriteLine("123123");
+            Console.WriteLine("787878");
         }
     }
 }
